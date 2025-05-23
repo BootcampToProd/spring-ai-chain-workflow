@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-ai-chain-workflow
+
+  # AI configurations
+  ai:
+    openai:
+      api-key: ${GEMINI_API_KEY}
+      base-url: https://generativelanguage.googleapis.com/v1beta/openai
+      chat:
+        completions-path: /chat/completions
+        options:
+          model: gemini-2.0-flash-exp
