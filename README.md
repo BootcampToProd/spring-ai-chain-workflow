@@ -5,6 +5,9 @@ This repository demonstrates the **Spring AI Chain Workflow Pattern**, a powerfu
 📖 **Dive Deeper**: For a complete walkthrough, detailed explanations of the Chain Workflow pattern, and step-by-step instructions for the example application, read our blog post.<br>
 👉 [Spring AI Chain Workflow Pattern: Complete Guide with Example](https://bootcamptoprod.com/spring-ai-chain-workflow-guide/)
 
+🎥 **Visual Learning**: Prefer video tutorials? Watch our step-by-step implementation guide on YouTube.<br>
+👉 [Chain Workflow Pattern in Spring AI | Your First AI Pattern 🤖](https://youtu.be/TCXvWJiNJNQ)
+
 ---
 
 ## 📦 Environment Variables
